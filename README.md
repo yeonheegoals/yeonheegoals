@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @yeonheegoals
+- 👀 I’m interested in web development, data science, and machine learning.
+- 🌱 I’m currently learning React, Python,SQL and the basics of AI.
+- 💞️ I’m looking to collaborate on open-source projects, especially in the fields of education and technology.
+- 📫 How to reach me: You can reach me via email at [yeonhee.r.jeong@gmail.com.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love making videos, editing pictures, singing, and dancing. I also had a band before!
